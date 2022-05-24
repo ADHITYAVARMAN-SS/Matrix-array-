@@ -1,2 +1,0 @@
-# Matrix-array-
-By ADHITYAVARMAN
