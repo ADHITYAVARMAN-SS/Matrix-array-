@@ -1,9 +1,10 @@
 # Matrix-array
+// addition
 
 public class MatrixAddition{
 public static void main(String args[]){
-  int a[][]={{2,2,3},{2,4,3},{1,2,3}};  
-  int b[][]={{2,2,3},{2,4,3},{5,6,4}};  
+  int a[][]={{1,3,4},{2,4,3},{3,4,5}};  
+  int b[][]={{1,3,4},{2,4,3},{3,4,5}};  
   
   int c[][]=new int[3][3];  
   
@@ -22,8 +23,8 @@ public static void main(String args[]){
 public class MatrixMultiplication{
 public static void main(String args[]){
 
-  int a[][]={{2,3,4},{5,6,7},{8,9,7}};  
-  int b[][]={{2,3,4},{5,6,7},{8,9,7}};  
+  int a[][]={{1,3,4},{2,4,3},{3,4,5}};  
+  int b[][]={{1,3,4},{2,4,3},{3,4,5}};  
   
   int c[][]=new int[3][3];  
   
